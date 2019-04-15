@@ -6,7 +6,7 @@ namespace Hackerrank
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Hackerrank!");
+            Console.WriteLine("Hello Hackerrank!!");
         }
     }
 }
